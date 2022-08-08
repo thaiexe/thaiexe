@@ -25,6 +25,6 @@
  
   ##
     
-  ![Snake animation](https://github.com/thaiexe/thaiexe/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thaiexe/blob/output/github-contribution-grid-snake.svg)
   
 </div>
