@@ -1,7 +1,9 @@
 ###  Oi, oi 🖐
 
 
+Sempre tive muita curiosidade sobre o mundo da tecnologia, mais especificamente computação, então em 2019 decidi cursar o Técnico em Desenvolvimento de Sistemas pela Etec e pude confirmar minha paixão pela área de programação.
 
+Atualmente sigo aprofundando meus conhecimentos cursando a graduação em Análise e Desenvolvimento de Sistemas. Sempre com muita vontade de aprender e evoluir.
 
 
 ##
